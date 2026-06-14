@@ -1,0 +1,11 @@
+episode,agent,maze,seed,won,score,steps,pellets_eaten,runtime_ms
+0,Random,pacman_ai/mazes/medium.txt,42,False,-1493,23,3,4.279999993741512
+1,Random,pacman_ai/mazes/medium.txt,43,False,-1463,23,6,3.4325000015087426
+2,Random,pacman_ai/mazes/medium.txt,44,False,-1450,20,7,3.0830999894533306
+3,Random,pacman_ai/mazes/medium.txt,45,False,-1433,23,9,3.718099993420765
+4,Random,pacman_ai/mazes/medium.txt,46,False,-1446,26,8,3.3260000054724514
+5,Random,pacman_ai/mazes/medium.txt,47,False,-1444,24,8,3.4670000022742897
+6,Random,pacman_ai/mazes/medium.txt,48,False,-1472,22,5,3.199200000381097
+7,Random,pacman_ai/mazes/medium.txt,49,False,-1457,27,7,4.0022999892244115
+8,Random,pacman_ai/mazes/medium.txt,50,False,-1476,26,5,7.7855999988969415
+9,Random,pacman_ai/mazes/medium.txt,51,False,-1444,34,9,10.9260000026552

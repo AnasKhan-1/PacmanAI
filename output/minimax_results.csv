@@ -1,0 +1,4 @@
+episode,agent,maze,seed,won,score,steps,pellets_eaten,runtime_ms
+0,Minimax,pacman_ai\mazes\medium.txt,42,False,-1233,53,32,630.069300008472
+1,Minimax,pacman_ai\mazes\medium.txt,43,False,-1233,53,32,608.5168999998132
+2,Minimax,pacman_ai\mazes\medium.txt,44,False,-1233,53,32,614.3740999978036
